@@ -1,3 +1,3 @@
-#NextJS-Project-Showcase
+# NextJS-Project-Showcase
 
 A showcase of my web projects. Work in progress.
