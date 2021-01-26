@@ -1,0 +1,9 @@
+{
+    "order": 2,
+    "type": "three",
+    "tags": ["Raymarching", "THREE.js"],
+    "date": "1/1/1",
+    "description": "Experiments with 4D simplex noise to deform simple geometry, with interesting effects.",
+    "source": "SceneManager.js",
+    "color": "#34444c"
+}

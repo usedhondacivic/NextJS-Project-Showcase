@@ -1,0 +1,9 @@
+{
+    "order": 1,
+    "type": "three",
+    "tags": ["Raymarching", "fractal", "THREE.js"],
+    "date": "1/1/1",
+    "description": "An interactive render of the mandlebulb fractal, the 3D extension of the mandelbrot fractal. Credit to Mikael Christensen's phenominal tutorial on distance estimated 3D fractals: [http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/].",
+    "source": "SceneManager.js",
+    "color": "#fffcf5"
+}
